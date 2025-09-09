@@ -1,0 +1,35 @@
+# Temporary files
+*.tmp
+*~
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Slide output files (optional - uncomment if you want to exclude generated slides)
+# *.pdf
+# *.html
+# *.pptx
+
+# Node modules (if using Marp or other Node-based tools)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build artifacts
+dist/
+build/
+out/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
